@@ -1,3 +1,10 @@
 .idea/
 *.iml
 target/
+# Android Studio
+.gradle/
+build/
+local.properties
+*.jks
+proguard/
+app/build/

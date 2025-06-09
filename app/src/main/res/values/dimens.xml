@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="cell_size">20dp</dimen>
+    <dimen name="game_over_image_width">300dp</dimen>
+    <dimen name="game_over_image_height">150dp</dimen>
+    <dimen name="bottom_margin">100dp</dimen> <!-- 适配底部按钮 -->
+    <dimen name="top_margin">0dp</dimen>
+</resources>
