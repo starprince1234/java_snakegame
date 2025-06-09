@@ -8,3 +8,8 @@ local.properties
 *.jks
 proguard/
 app/build/
+# 桌面端特定忽略
+*.exe
+*.dll
+logs/
+temp/
