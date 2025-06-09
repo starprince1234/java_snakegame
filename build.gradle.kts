@@ -1,0 +1,5 @@
+buildscript {
+}
+
+allprojects {
+}
